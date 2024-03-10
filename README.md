@@ -1,4 +1,4 @@
-# Goorm's Project "React Netflix Clone
+# Follow the '인프런' lesson "React Netflix Clone"
 
 
 ## Information
