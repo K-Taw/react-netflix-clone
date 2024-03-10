@@ -1,4 +1,4 @@
-# Follow the '인프런' lesson "React Netflix Clone"
+# Follow the '인프런' Lectures "React Netflix Clone"
 
 
 ## Information
