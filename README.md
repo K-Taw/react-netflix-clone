@@ -1,4 +1,4 @@
-# Groom's Project "React Netflix Clone
+# Goorm's Project "React Netflix Clone
 
 
 ## Information
