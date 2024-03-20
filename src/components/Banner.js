@@ -31,7 +31,7 @@ export default function Banner() {
   // str, n = String, Number
   // 문자열 자르기, 자르는 위치 지정
   const truncate = (str, n) => {
-    return str?.lengt > n ? str.substr(0, n - 1) + "..." : str;
+    return str?.length > n ? str.substr(0, n - 1) + "..." : str;
   };
 
   if (!isClicked) {
@@ -69,9 +69,40 @@ export default function Banner() {
       </header>
     );
   } else {
-    return <Container>clicked</Container>;
+    return (
+      <Container>
+        <HomeContianer>
+          <Iframe
+            width="640"
+            height="360"
+            src={`https://www.youtube.com/embed/${movie.videos.results[0].key}?controls=0&autoplay=1&loop=1&mute=1&playlist=${movie.videos.results[0].key}`}
+            title="YouTube video player"
+            frameborder="0"
+            allow="autoplay; fullscreen"
+            allowfullscreen
+          ></Iframe>
+        </HomeContianer>
+      </Container>
+    );
   }
 }
+
+const Iframe = styled.iframe`
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0.65;
+  border: none;
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+`;
 
 const Container = styled.div`
   display: flex;
