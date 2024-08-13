@@ -9,7 +9,7 @@
 **Project Summaries** :
 
 
-# 🖥 STACKS
+# 🖥 <h1 align="center">🌟 Stack </h1>
 
 <div align="center">
 
@@ -94,23 +94,7 @@ Backend Developer
 
 
 
-<h1 align="center">🌟 Project Name</h1>
-
-<p align="center">A modern, high-performance Spring Boot application leveraging the power of Java 17 and a comprehensive set of libraries for building secure, scalable systems.</p>
-
----
-
-## 📋 Table of Contents
-1. [🚀 Technical Stack](#-technical-stack)
-2. [🔧 Installation](#-installation)
-3. [💡 Usage](#-usage)
-4. [📚 Examples](#-examples)
-5. [🎨 Customization](#-customization)
-6. [📄 License](#-license)
-7. [📌 Project Status](#-project-status)
-8. [👥 Credits](#-credits)
-
----
+<h1 align="center">🌟 시스템 구상도</h1>
 
 <h2 align="center">🚀 시스템 구상도</h2>
 <h1 "디렉토리 계층
