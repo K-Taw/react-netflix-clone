@@ -115,7 +115,7 @@ Backend Developer
 <h1 align="center">📹 시연 영상</h1>
 ## 💡 시연 영상
 
-  <summary>🎥 SHANA.1__mp4</summary>
+  <summary>🎥 [풀스택 7회차] 구름적 사고 - 시연 영상.mov</summary>
 
   <p align="center">
     <iframe src="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/preview" width="640" height="480" allow="autoplay"></iframe>
