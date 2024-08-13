@@ -33,6 +33,38 @@
 
 </div>
 
+# 👥 Team 프로필
+
+<div align="center">
+
+| ![이호성](https://example.com/image1.png) | ![홍진석](https://example.com/image2.png) | ![김태우](https://example.com/image3.png) | ![김현희](https://example.com/image4.png) |
+|:---------------------------------------:|:--------------------------------------:|:---------------------------------------:|:--------------------------------------:|
+| **BE_이호성** | **BE_홍진석** | **BE_김태우** | **BE_김현희** |
+| [@githublees](https://github.com/githublees) | [@Hong-JinSuk](https://github.com/Hong-JinSuk) | [@anothercod](https://github.com/anothercod) | [@hyeonhoi11](https://github.com/hyeonhoi11) |
+
+</div>
+
+
+<details>
+<summary>이호성 [BE]</summary>
+Backend Developer
+</details>
+
+<details>
+<summary>홍진석 [BE]</summary>
+Backend Developer
+</details>
+
+<details>
+<summary>김현희 [BE]</summary>
+Backend Developer
+</details>
+
+<details>
+<summary>김태우 [BE]</summary>
+Backend Developer
+</details>
+
 
 
 
