@@ -48,6 +48,16 @@
 <details>
 <summary>이호성 [BE]</summary>
 Backend Developer
+Backend 리더
+- Kafka를 사용하여 
+채팅 서버, 알림 서버 연동 및 구현
+- QueryDsl을 사용하여 
+리뷰 및 좋아요 리스트 정렬 기능 구현
+- 전체 엔티티 작성 및 연관관계 설정
+- 공통 기능 및 글로벌 에러 처리 작성
+- ERD 및 시스템 아키텍처 작성
+![image](https://github.com/user-attachments/assets/aa0d9e4c-a7a9-4d84-b8ec-c18542bbed84)
+
 </details>
 
 <details>
