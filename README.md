@@ -33,7 +33,7 @@
 
 </div>
 
-<h2 align="center">👥 Team 프로필 </h2>
+<h1 align="center">👥 Team 프로필 </h1>
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Backend Developer
 
 
 
-<h3 align="center">🚀  시스템 구상도</h3>
+<h1 align="center">🚀  시스템 구상도</h1>
   <p1>디렉토리 계층</p1>
      <dev>
         [!image]()
