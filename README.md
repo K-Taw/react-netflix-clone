@@ -115,7 +115,7 @@ Backend Developer
 <h1 align="center">📹 시연 영상</h1>
 ## 💡 시연 영상
 
-[![Dofarming 시연 영]([https://img.youtube.com/vi/비디오-ID/0.jpg](https://drive.google.com/file/d/13Cqsoy8Ljm29I0b-1axqaVcIttgiE4xE/view?usp=drive_link))]([https://www.youtube.com/watch?v=비디오-ID](https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link))
+[![Dofarming 시연 영상입니다](https://drive.google.com/file/d/13Cqsoy8Ljm29I0b-1axqaVcIttgiE4xE/view?usp=drive_link)](https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link)
 
 
 
