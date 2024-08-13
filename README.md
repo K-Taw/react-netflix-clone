@@ -115,20 +115,10 @@ Backend Developer
 <h1 align="center">📹 시연 영상</h1>
 ## 💡 시연 영상
 
-  <summary>🎥 Dofarming</summary>
+  <summary>🎥 SHANA.1__mp4</summary>
 
   <p align="center">
-    <a href="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link">
-      <img src="https://drive.google.com/file/d/13Cqsoy8Ljm29I0b-1axqaVcIttgiE4xE/view?usp=drive_link" />
-    </a>
-  </p>
-
-  <p align="center">
-    <em>Dofarming 시연 영상입니다.</em>
-  </p>
-
-  <p align="center">
-    <em>팀 구름적 사고</em>
+    <iframe src="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/preview" width="640" height="480" allow="autoplay"></iframe>
   </p>
 
 
