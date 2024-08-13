@@ -117,7 +117,42 @@ Backend Developer
 [![Dofarming 시연 영상입니다](https://drive.google.com/file/d/13Cqsoy8Ljm29I0b-1axqaVcIttgiE4xE/view?usp=sharing)](https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=sharing)
 
 
+<h1 align="center">🛠️ 개발 환경</h1>
 
+- **Programming Language:** Java 17
+- **Build Tool:** Gradle
+- **Spring Framework:** Spring Framework 6.1.8
+  - Spring Boot 3.3.0
+- **Library and Dependency Management:** Spring Dependency Management Plugin 1.1.5
+
+---
+
+## 🌟 프로젝트 버전 관리
+
+### 데이터베이스 / Database 💾
+
+- **H2:** 2.2.224
+- **MySQL:** 5.7.44
+- **MongoDB:** 5.0.1
+
+### 보안 / Security 🔒
+
+- **Spring Security:** 6.3.0
+- **JWT:** 0.11.5
+- **Bouncy Castle Provider:** 1.69
+
+### 유효성 검사 / Validation ✅
+
+- **Spring-boot-starter-data-jpa:** 3.3.0
+- **Spring-boot-starter-data-mongodb:** 4.3.0
+- **Hibernate**
+  - hibernate-core : 6.5.2.Final
+  - hibernate-validator: 8.0.1.Final
+  - hibernate-commons-annotations: 6.0.6.Final
+
+### 추가 라이브러리
+
+- **Tomcat:** 10.1.24
 
 
 
