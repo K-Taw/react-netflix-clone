@@ -95,14 +95,14 @@ Backend Developer
 
 
 <h3 align="center">🚀  시스템 구상도</h3>
-  <a1>디렉토리 계층</a1>
+  <p1>디렉토리 계층</p1>
 
 
   
-  <a2>Dofarming ERD</a2> 
+  <p2>Dofarming ERD</p2> 
 
 
-  <a3>System Architecture</a3>
+  <p3>System Architecture</p3>
 
 
 
