@@ -114,7 +114,7 @@ Backend Developer
 
 <h1 align="center">🖥 시연 영상</h1>
    <video width="320" height="240" controls>
-     <source src=""C:\Users\tw199\OneDrive\바탕 화면\2차 프로젝트\[풀스택 7회차] 구름적 사고 - 시연 영상.mov"" type="video/mp4">
+     <source src="C:\Users\tw199\OneDrive\바탕 화면\2차 프로젝트\[풀스택 7회차] 구름적 사고 - 시연 영상.mov" type="video/mp4">
      Your browser does not support the video tag.
    </video>
 
