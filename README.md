@@ -113,9 +113,8 @@ Backend Developer
      </dev>
 
 <h1 align="center">📹 시연 영상</h1>
-## 💡 시연 영상
 
-[![Dofarming 시연 영상입니다](https://drive.google.com/file/d/13Cqsoy8Ljm29I0b-1axqaVcIttgiE4xE/view?usp=drive_link)](https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link)
+[![Dofarming 시연 영상입니다](https://drive.google.com/file/d/13Cqsoy8Ljm29I0b-1axqaVcIttgiE4xE/view?usp=sharing)](https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=sharing)
 
 
 
