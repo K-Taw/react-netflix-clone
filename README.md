@@ -48,8 +48,7 @@
 <details>
 <summary>이호성 [BE]</summary>
 
-Backend Developer
-Backend 리더
+**Backend Developer, Backend 리더**
 - JWT와 Spring Security를 통한 회원 기능 구현
 - OAuth를 사용한 소셜 회원가입/로그인 구현
 - Kafka를 사용하여 채팅 서버, 알림 서버 연동 및 구현
