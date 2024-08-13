@@ -47,6 +47,7 @@
 
 <details>
 <summary>이호성 [BE]</summary>
+
 Backend Developer
 Backend 리더
 - JWT와 Spring Security를 통한 회원 기능 구현
@@ -56,32 +57,39 @@ Backend 리더
 - 전체 엔티티 작성 및 연관관계 설정
 - 공통 기능 및 글로벌 에러 처리 작성
 - ERD 및 시스템 아키텍처 작성
+
 </details>
 
 <details>
 <summary>홍진석 [BE]</summary>
+
 Backend Developer
 - 추천 장소에 대한 선별 알고리즘 기능 구현
 - MySQL로 Tour API 마이그레이션
 - AWS EC2, Git action과 GitHub를 사용하여 CI/CD 구축
 - AWS Load Balancer를 통한 HTTPS 적용 및 리다이렉트 설정
 - ERD 및 시스템 아키텍처 작성
+
 </details>
 
 <details>
 <summary>김현희 [BE]</summary>
+   
 Backend Developer
 - Spring Swagger를 통한 REST API Docs 제공
 - Git Action과 GitHub를 사용하여 CI/CD 구축
 - 발표 자료 작성
 - 시퀀스 다이어그램 작성
+
 </details>
 
 <details>
 <summary>김태우 [BE]</summary>
+   
 Backend Developer
 - Postman을 사용한 Backend 테스트 담당
 - 노션 관리, 회의록 및 문서 작성
+
 </details>
 
 
