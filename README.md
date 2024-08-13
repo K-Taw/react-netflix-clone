@@ -4,7 +4,7 @@
 
 **Jira convention** : [Jira convention](https://dofaming.atlassian.net/jira/software/projects/RAND/boards/1/timeline)
 
-**Project duration** : 24.06.26 ~ 24.08.13
+**Project duration** : 24.06.26 ~ 24.08.14
 
 **Project Summaries** :
 
@@ -115,12 +115,11 @@ Backend Developer
 <h1 align="center">📹 시연 영상</h1>
 ## 💡 시연 영상
 
-<details open>
   <summary>🎥 Dofarming</summary>
 
   <p align="center">
     <a href="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link">
-      <img src="https://img.icons8.com/clouds/100/000000/video.png" alt="Study For Code 시연 영상입니다"/>
+      <img src="https://drive.google.com/file/d/13Cqsoy8Ljm29I0b-1axqaVcIttgiE4xE/view?usp=drive_link" />
     </a>
   </p>
 
@@ -131,7 +130,6 @@ Backend Developer
   <p align="center">
     <em>팀 구름적 사고</em>
   </p>
-</details>
 
 
 
