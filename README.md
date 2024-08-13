@@ -113,10 +113,8 @@ Backend Developer
      </dev>
 
 <h1 align="center">🖥 시연 영상</h1>
-   <video width="320" height="240" controls>
-     <source src="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link" type="video/mov">
-     Your browser does not support the video tag.
-   </video>
+   <iframe src="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 
 
