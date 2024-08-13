@@ -33,7 +33,7 @@
 
 </div>
 
-# 👥 Team 프로필
+<h2 align="center">👥 Team 프로필 </h2>
 
 <div align="center">
 
@@ -100,4 +100,4 @@ Backend Developer
 <h1 "디렉토리 계층
 
 
-
+🖥
