@@ -113,8 +113,26 @@ Backend Developer
      </dev>
 
 <h1 align="center">📹 시연 영상</h1>
+## 💡 시연 영상
 
-[Google Drive에서 시연 영상 보기](https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link)
+<details open>
+  <summary>🎥 Dofarming</summary>
+
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link">
+      <img src="https://img.icons8.com/clouds/100/000000/video.png" alt="Study For Code 시연 영상입니다"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <em>Dofarming 시연 영상입니다.</em>
+  </p>
+
+  <p align="center">
+    <em>팀 구름적 사고</em>
+  </p>
+</details>
+
 
 
 
