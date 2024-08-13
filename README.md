@@ -115,11 +115,8 @@ Backend Developer
 <h1 align="center">📹 시연 영상</h1>
 ## 💡 시연 영상
 
-  <summary>🎥 [풀스택 7회차] 구름적 사고 - 시연 영상.mov</summary>
+[![Dofarming 시연 영]([https://img.youtube.com/vi/비디오-ID/0.jpg](https://drive.google.com/file/d/13Cqsoy8Ljm29I0b-1axqaVcIttgiE4xE/view?usp=drive_link))]([https://www.youtube.com/watch?v=비디오-ID](https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link))
 
-  <p align="center">
-    <iframe src="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/preview" width="640" height="480" allow="autoplay"></iframe>
-  </p>
 
 
 
