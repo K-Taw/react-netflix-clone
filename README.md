@@ -112,8 +112,10 @@ Backend Developer
         [!image]()
      </dev>
 
-<h1 align="center">🖥 시연 영상</h1>
-<iframe src="https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/preview" width="640" height="480" allow="autoplay"></iframe>
+<h1 align="center">📹 시연 영상</h1>
+
+[Google Drive에서 시연 영상 보기](https://drive.google.com/file/d/1aUmNRRt4PmWfuq21tQtLMtjEatWM_RsJ/view?usp=drive_link)
+
 
 
 
