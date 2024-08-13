@@ -9,7 +9,7 @@
 **Project Summaries** :
 
 
-# <h1 align="center">🌟 Stack </h1>
+<h1 align="center">🌟 Stack </h1>
 
 <div align="center">
 
