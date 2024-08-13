@@ -94,12 +94,3 @@ The project uses the following technologies and dependencies:
 - **Jackson XML**: A Jackson module for working with XML data format.
 
 ---
-
-<h2 align="center">🔧 Installation</h2>
-
-To install and run the project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/projectname.git
-   cd projectname
