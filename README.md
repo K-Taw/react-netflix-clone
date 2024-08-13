@@ -4,6 +4,10 @@
 
 **Jira convention** : [Jira convention](https://dofaming.atlassian.net/jira/software/projects/RAND/boards/1/timeline)
 
+**Project duration** : 24.06.26 ~ 24.08.13
+
+**Project Summaries** :
+
 
 # 🖥 STACKS
 
